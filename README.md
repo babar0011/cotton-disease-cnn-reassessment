@@ -61,7 +61,7 @@ results/v2_repeated_seeds/raw/, archive/results/v3_run1_bn_training_mode/
    ```
    The analysis is deterministic, with a fixed bootstrap seed.
 
-The 30 trained models (about 1.1 GB) are not stored here because of their size.
+**Trained models.** The 30 trained models (`.keras`, about 1.1 GB in total) are too large for this repository. They are part of the output of the public Kaggle notebook [babar0011/cotton-disease-v3](https://www.kaggle.com/code/babar0011/cotton-disease-v3): open the *Output* tab and use the `models/` folder. That output also contains the run logs and the same `runs/` records as `results/v3/raw/`.
 
 ## Citation
 
