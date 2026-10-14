@@ -1,0 +1,38 @@
+{
+  "upload_type": "software",
+  "title": "Reassessing Lightweight CNN Architectures for Cotton Leaf Disease Recognition: code and results",
+  "description": "Training notebook, analysis scripts and complete per-run results (30 models: 2 data splits x 3 backbones x 5 seeds) for a reproducible comparison of MobileNetV3Small, EfficientNetB0 and DenseNet121 on the Cotton Disease Dataset, including a perceptual-hash duplicate audit, hierarchical-bootstrap statistics, Grad-CAM faithfulness evaluation, and a dataset-free demonstration of a Keras 3 BatchNorm training-mode pitfall.",
+  "creators": [
+    {
+      "name": "Ali, Babar",
+      "affiliation": "National College of Business Administration & Economics, Multan, Pakistan"
+    },
+    {
+      "name": "Soomro, Abdul Majid",
+      "affiliation": "Muhammad Nawaz Sharif University of Engineering & Technology, Multan, Pakistan"
+    },
+    {
+      "name": "Leong, Wai Yie",
+      "affiliation": "INTI International University, Nilai, Malaysia"
+    },
+    {
+      "name": "Bagchi, Susama",
+      "affiliation": "Chitkara University, Punjab, India"
+    },
+    {
+      "name": "Debnath, Sanjoy Kumar",
+      "affiliation": "Chitkara University, Punjab, India"
+    }
+  ],
+  "keywords": [
+    "cotton leaf curl disease",
+    "plant disease recognition",
+    "lightweight CNN",
+    "transfer learning",
+    "reproducibility",
+    "data leakage",
+    "explainable AI",
+    "batch normalization"
+  ],
+  "license": "MIT"
+}
