@@ -1,5 +1,7 @@
 # Reassessing Lightweight CNN Architectures for Cotton Leaf Disease Recognition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23377492.svg)](https://doi.org/10.5281/zenodo.23377492)
+
 Code and complete per-run results for the paper *Reassessing Lightweight CNN Architectures for Cotton Leaf Disease Recognition: Effects of Training Protocol, Data Duplication, and Explanation Faithfulness* (B. Ali, A. M. Soomro, W. Y. Leong, S. Bagchi, S. K. Debnath; submitted to IEEE Access).
 
 The study compares **MobileNetV3Small**, **EfficientNetB0** and **DenseNet121** on the public [Cotton Disease Dataset](https://www.kaggle.com/datasets/janmejaybhoi/cotton-disease-dataset): 2,310 images in 4 classes. It covers two data splits × three backbones × five seeds, giving 30 independently trained models, with:
@@ -63,7 +65,9 @@ The 30 trained models (about 1.1 GB) are not stored here because of their size.
 
 ## Citation
 
-The paper is under review; citation details will be added on publication (see `CITATION.cff`).
+The paper is under review; its citation will be added on publication. To cite this code and these results (see also `CITATION.cff`):
+
+> B. Ali, A. M. Soomro, W. Y. Leong, S. Bagchi, and S. K. Debnath, "Reassessing lightweight CNN architectures for cotton leaf disease recognition: Code and results," Zenodo, v1.0.0, 2026, doi: [10.5281/zenodo.23377492](https://doi.org/10.5281/zenodo.23377492).
 
 ## License
 

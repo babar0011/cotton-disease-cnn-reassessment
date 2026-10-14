@@ -4,6 +4,8 @@ title: "Reassessing Lightweight CNN Architectures for Cotton Leaf Disease Recogn
 type: software
 license: MIT
 repository-code: "https://github.com/babar0011/cotton-disease-cnn-reassessment"
+doi: "10.5281/zenodo.23377492"
+version: "v1.0.0"
 authors:
   - family-names: Ali
     given-names: Babar
