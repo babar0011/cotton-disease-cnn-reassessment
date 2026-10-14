@@ -1,0 +1,6 @@
+split,cls,n_removed
+test,fresh cotton leaf,1
+train,fresh cotton leaf,4
+train,fresh cotton plant,1
+val,diseased cotton leaf,10
+val,fresh cotton leaf,7

@@ -1,0 +1,38 @@
+{
+  "MobileNetV3Small": {
+    "float32": {
+      "size_mb": 3.8427200317382812,
+      "median_latency_ms": 2.601760499601369,
+      "test_accuracy": 0.9904761904761905
+    },
+    "int8_dynamic": {
+      "size_mb": 1.1319808959960938,
+      "median_latency_ms": 5.580255499808118,
+      "test_accuracy": 0.9523809523809523
+    }
+  },
+  "EfficientNetB0": {
+    "float32": {
+      "size_mb": 15.919464111328125,
+      "median_latency_ms": 19.29048150032031,
+      "test_accuracy": 0.9428571428571428
+    },
+    "int8_dynamic": {
+      "size_mb": 4.496009826660156,
+      "median_latency_ms": 34.36894450078398,
+      "test_accuracy": 0.9238095238095239
+    }
+  },
+  "DenseNet121": {
+    "float32": {
+      "size_mb": 27.112918853759766,
+      "median_latency_ms": 73.9413044993853,
+      "test_accuracy": 0.9619047619047619
+    },
+    "int8_dynamic": {
+      "size_mb": 7.1983489990234375,
+      "median_latency_ms": 100.71470950060757,
+      "test_accuracy": 0.9714285714285714
+    }
+  }
+}

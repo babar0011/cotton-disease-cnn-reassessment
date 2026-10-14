@@ -1,0 +1,16 @@
+# Environment of the final Kaggle run (results/v3/raw/package_versions.txt):
+# Python 3.13, TensorFlow 2.20.0, Keras 3.13.2. The training notebook needs the first block;
+# the local analysis needs only the second.
+tensorflow==2.20.0
+keras==3.13.2
+opencv-python-headless>=4.10
+imagehash==4.3.2
+psutil
+
+numpy>=2.0,<2.4
+pandas>=2.2,<3
+scipy>=1.14
+scikit-learn>=1.5
+statsmodels>=0.14
+matplotlib>=3.8
+Pillow>=10

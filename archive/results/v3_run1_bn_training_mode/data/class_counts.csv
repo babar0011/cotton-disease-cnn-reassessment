@@ -1,0 +1,7 @@
+version,split,diseased cotton leaf,diseased cotton plant,fresh cotton leaf,fresh cotton plant
+original,test,25,28,26,27
+original,train,288,815,427,421
+original,val,43,78,66,66
+dedup,test,25,28,25,27
+dedup,train,288,815,423,420
+dedup,val,33,78,59,66

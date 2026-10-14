@@ -1,0 +1,17 @@
+split,image,true,correct_of_15,most_common_wrong
+dedup,test/diseased cotton plant/dd (804)_iaip.jpg,Diseased plant,7,Fresh plant
+dedup,test/diseased cotton leaf/dis_leaf (341)_iaip.jpg,Diseased leaf,8,Fresh leaf
+dedup,test/fresh cotton plant/dsd (292)_iaip.jpg,Fresh plant,9,Fresh leaf
+dedup,test/fresh cotton plant/dsd (382)_iaip.jpg,Fresh plant,9,Diseased plant
+dedup,test/diseased cotton leaf/dis_leaf (231)_iaip.jpg,Diseased leaf,10,Fresh leaf
+dedup,test/diseased cotton plant/dd (364)_iaip.jpg,Diseased plant,12,Fresh leaf
+dedup,test/fresh cotton plant/dsd (228).jpg,Fresh plant,13,Diseased plant
+dedup,test/diseased cotton leaf/dis_leaf (342)_iaip.jpg,Diseased leaf,14,Fresh leaf
+dedup,test/diseased cotton plant/dd (893)_iaip.jpg,Diseased plant,14,Fresh leaf
+original,test/diseased cotton plant/dd (804)_iaip.jpg,Diseased plant,7,Fresh plant
+original,test/diseased cotton leaf/dis_leaf (231)_iaip.jpg,Diseased leaf,10,Fresh leaf
+original,test/diseased cotton leaf/dis_leaf (341)_iaip.jpg,Diseased leaf,10,Fresh leaf
+original,test/fresh cotton plant/dsd (292)_iaip.jpg,Fresh plant,10,Fresh leaf
+original,test/fresh cotton plant/dsd (382)_iaip.jpg,Fresh plant,10,Diseased plant
+original,test/diseased cotton plant/dd (364)_iaip.jpg,Diseased plant,13,Fresh leaf
+original,test/fresh cotton plant/dsd (228).jpg,Fresh plant,14,Diseased plant

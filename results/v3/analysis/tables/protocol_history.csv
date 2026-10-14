@@ -1,0 +1,16 @@
+protocol,split,model,acc_mean,acc_sd
+v2: callback state shared across phases,original,MobileNetV3Small,0.9754716981132076,0.010756371934897525
+v2: callback state shared across phases,original,EfficientNetB0,0.9188679245283019,0.019562680522007277
+v2: callback state shared across phases,original,DenseNet121,0.8981132075471698,0.010334387877455962
+v3 run 1: BatchNorm in training mode during fine-tuning,original,MobileNetV3Small,0.9679245283018869,0.010756371934897525
+v3 run 1: BatchNorm in training mode during fine-tuning,original,EfficientNetB0,0.960377358490566,0.007893019118245994
+v3 run 1: BatchNorm in training mode during fine-tuning,original,DenseNet121,0.9584905660377359,0.021718612138153463
+v3 run 1: BatchNorm in training mode during fine-tuning,dedup,MobileNetV3Small,0.9695238095238095,0.026427498905736396
+v3 run 1: BatchNorm in training mode during fine-tuning,dedup,EfficientNetB0,0.9561904761904761,0.010858813572372757
+v3 run 1: BatchNorm in training mode during fine-tuning,dedup,DenseNet121,0.9580952380952381,0.02192545606327871
+v3 final: corrected protocol,original,MobileNetV3Small,0.9849056603773585,0.005167193938727981
+v3 final: corrected protocol,original,EfficientNetB0,0.9773584905660379,0.005167193938727981
+v3 final: corrected protocol,original,DenseNet121,0.9792452830188679,0.004218996183961866
+v3 final: corrected protocol,dedup,MobileNetV3Small,0.9790476190476192,0.007968190728895968
+v3 final: corrected protocol,dedup,EfficientNetB0,0.9714285714285713,0.01166423687039609
+v3 final: corrected protocol,dedup,DenseNet121,0.9752380952380951,0.005216405309572993

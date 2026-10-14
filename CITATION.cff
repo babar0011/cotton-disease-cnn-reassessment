@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Reassessing Lightweight CNN Architectures for Cotton Leaf Disease Recognition: code and results"
+type: software
+license: MIT
+repository-code: "https://github.com/babar0011/cotton-disease-cnn-reassessment"
+authors:
+  - family-names: Ali
+    given-names: Babar
+  - family-names: Soomro
+    given-names: Abdul Majid
+  - family-names: Leong
+    given-names: Wai Yie
+  - family-names: Bagchi
+    given-names: Susama
+  - family-names: Debnath
+    given-names: Sanjoy Kumar
+keywords:
+  - cotton leaf curl disease
+  - lightweight CNN
+  - reproducibility
+  - data leakage
+  - explainable AI
